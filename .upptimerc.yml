@@ -1,31 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: AndrisaniSRL # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Andrisani Website
+    url: https://www.andrisani.com.ar
+  - name: Andrisani Socios Admin
+    url: https://socios.andrisani.com.ar
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.andrisani.com.ar
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Andrisani -  **Upptime** Status page."
+  introMessage: Esta web es un status page perteneciente a **Andrisani Servicios Sociales**. Cualquier inconveniente o duda contactarse via email a [contacto@andrisani.com.ar](mailto://contacto@andrisani.com.ar).
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Andrisani Website
+      href: https://www.andrisani.com.ar
+    - title: Andrisani Socios Admin
+      href: https://socios.andrisani.com.ar
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
