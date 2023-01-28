@@ -22,7 +22,7 @@
     "url": "https://socios.andrisani.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/socios.andrisani.com.ar.ico",
     "slug": "andrisani-socios-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1872,
     "timeMonth": 1872,
     "timeYear": 1872,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-28": 0
+    }
   }
 ]
