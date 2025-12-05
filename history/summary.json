@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.andrisani.com.ar.ico",
     "slug": "andrisani-website",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 565,
-    "timeWeek": 542,
-    "timeMonth": 767,
-    "timeYear": 719,
+    "time": 706,
+    "timeDay": 893,
+    "timeWeek": 601,
+    "timeMonth": 765,
+    "timeYear": 720,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/socios.andrisani.com.ar.ico",
     "slug": "andrisani-socios-admin",
     "status": "down",
-    "uptime": "28.14%",
+    "uptime": "28.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "25.58%",
     "time": 3419,
     "timeDay": 0,
-    "timeWeek": 11888,
-    "timeMonth": 4877,
+    "timeWeek": 12083,
+    "timeMonth": 5085,
     "timeYear": 3419,
     "dailyMinutesDown": {
-      "2025-12-04": 120,
+      "2025-12-05": 120,
+      "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
@@ -334,8 +335,7 @@
       "2024-12-31": 18,
       "2024-12-26": 16,
       "2024-12-09": 22,
-      "2024-12-06": 58,
-      "2024-12-05": 449
+      "2024-12-06": 58
     }
   }
 ]
