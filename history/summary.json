@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 474,
-    "timeWeek": 1328,
-    "timeMonth": 964,
-    "timeYear": 736,
+    "time": 747,
+    "timeDay": 909,
+    "timeWeek": 690,
+    "timeMonth": 969,
+    "timeYear": 737,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/socios.andrisani.com.ar.ico",
     "slug": "andrisani-socios-admin",
     "status": "up",
-    "uptime": "27.62%",
+    "uptime": "27.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "41.39%",
-    "uptimeMonth": "42.14%",
-    "uptimeYear": "19.45%",
-    "time": 3547,
-    "timeDay": 2188,
-    "timeWeek": 2303,
-    "timeMonth": 2944,
-    "timeYear": 3648,
+    "uptimeWeek": "55.68%",
+    "uptimeMonth": "45.43%",
+    "uptimeYear": "19.73%",
+    "time": 3530,
+    "timeDay": 961,
+    "timeWeek": 1971,
+    "timeMonth": 2955,
+    "timeYear": 3626,
     "dailyMinutesDown": {
       "2026-03-20": 867,
       "2026-03-19": 219,
@@ -354,8 +354,7 @@
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
-      "2025-03-24": 1440,
-      "2025-03-23": 1440
+      "2025-03-24": 1440
     }
   }
 ]
