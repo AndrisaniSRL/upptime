@@ -22,17 +22,17 @@
     "url": "https://socios.andrisani.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/socios.andrisani.com.ar.ico",
     "slug": "andrisani-socios-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "97.38%",
-    "uptimeDay": "15.10%",
-    "uptimeWeek": "38.55%",
-    "uptimeMonth": "20.86%",
-    "uptimeYear": "91.29%",
-    "time": 2912,
-    "timeDay": 2083,
-    "timeWeek": 5001,
-    "timeMonth": 4044,
-    "timeYear": 2910,
+    "uptimeDay": "35.25%",
+    "uptimeWeek": "40.15%",
+    "uptimeMonth": "21.52%",
+    "uptimeYear": "91.31%",
+    "time": 2913,
+    "timeDay": 2424,
+    "timeWeek": 4971,
+    "timeMonth": 4048,
+    "timeYear": 2912,
     "dailyMinutesDown": {
       "2026-05-23": 906,
       "2026-05-22": 1064,
@@ -76,8 +76,7 @@
       "2026-04-14": 625,
       "2026-04-13": 1036,
       "2026-04-12": 566,
-      "2026-04-11": 511,
-      "2026-04-10": 79
+      "2026-04-11": 511
     }
   }
 ]
