@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 769,
-    "timeDay": 466,
-    "timeWeek": 639,
+    "timeDay": 419,
+    "timeWeek": 619,
     "timeMonth": 796,
     "timeYear": 761,
     "dailyMinutesDown": {}
@@ -24,17 +24,17 @@
     "slug": "andrisani-socios-admin",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "48.69%",
-    "uptimeWeek": "50.00%",
-    "uptimeMonth": "40.48%",
-    "uptimeYear": "94.03%",
+    "uptimeDay": "66.35%",
+    "uptimeWeek": "50.39%",
+    "uptimeMonth": "41.06%",
+    "uptimeYear": "94.02%",
     "time": 2861,
-    "timeDay": 3111,
-    "timeWeek": 1334,
+    "timeDay": 3342,
+    "timeWeek": 1337,
     "timeMonth": 2680,
     "timeYear": 2902,
     "dailyMinutesDown": {
-      "2026-05-16": 175,
+      "2026-05-16": 235,
       "2026-05-17": 1067,
       "2026-05-18": 482,
       "2026-05-19": 923,
@@ -71,8 +71,7 @@
       "2026-06-19": 647,
       "2026-06-20": 1046,
       "2026-06-21": 556,
-      "2026-06-22": 739,
-      "2026-06-23": 1
+      "2026-06-22": 725
     }
   }
 ]
