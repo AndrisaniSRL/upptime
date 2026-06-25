@@ -24,10 +24,10 @@
     "slug": "andrisani-socios-admin",
     "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "61.66%",
+    "uptimeDay": "52.45%",
     "uptimeWeek": "50.79%",
-    "uptimeMonth": "41.79%",
-    "uptimeYear": "93.91%",
+    "uptimeMonth": "41.48%",
+    "uptimeYear": "93.88%",
     "time": 2874,
     "timeDay": 2301,
     "timeWeek": 1900,
@@ -73,7 +73,7 @@
       "2026-06-22": 725,
       "2026-06-23": 759,
       "2026-06-24": 552,
-      "2026-06-25": 0
+      "2026-06-25": 133
     }
   }
 ]
